@@ -14,4 +14,11 @@ The dataset was taken from the Kaggle.com. the link to dataset is right below:
 
 https://www.kaggle.com/datamunge/sign-language-mnist
 
+# Sample Pic
+
+
+
+
+![alt text](https://github.com/Bijay555/Sign_Language_Classifier-using-CNN/blob/master/sample%20pic/amer_sign2.png)
+
 
